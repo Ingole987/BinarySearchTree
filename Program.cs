@@ -16,6 +16,6 @@ binarySearch.Insert(16);
 binarySearch.Insert(63);
 binarySearch.Insert(67);
 binarySearch.Display();
-bool result = binarySearch.IfExists(67, binarySearch);
+bool result = binarySearch.IfExists(63, binarySearch);
 Console.WriteLine(result);
 Console.ReadKey();
